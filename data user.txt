@@ -1,0 +1,10 @@
+
+akun admin
+
+username : ekayusuf.wicaksana@gmail.com
+password : 123
+
+akun user
+
+username : rosihin24@gmail.com
+password : 123
